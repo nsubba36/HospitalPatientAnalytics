@@ -1,0 +1,16 @@
+ProcedureName,EncounterCount,TotalCost,AverageCost,AvgLengthOfStay,AvgSatisfaction
+Insulin Therapy,65,130000.00,2000.00,36.09,3.51
+X-Ray and Splint,66,33000.00,500.00,34.26,5.00
+Appendectomy,66,528000.00,8000.00,37.44,3.00
+Physical Therapy and Pain Management,64,256000.00,4000.00,37.86,4.00
+CT Scan and Medication,66,660000.00,10000.00,40.33,2.00
+Delivery and Postnatal Care,65,780000.00,12000.00,35.52,4.00
+Angioplasty,65,975000.00,15000.00,38.22,3.49
+Lithotripsy,65,390000.00,6000.00,36.46,3.00
+Cardiac Catheterization,67,1206000.00,18000.00,41.00,2.00
+Radiation Therapy,65,1300000.00,20000.00,41.58,3.00
+Cast and Physical Therapy,67,201000.00,3000.00,39.00,4.00
+Antibiotics and Rest,65,52000.00,800.00,34.66,4.00
+Medication and Counseling,66,66000.00,1000.00,35.52,4.00
+Surgery and Chemotherapy,66,1650000.00,25000.00,42.65,4.00
+Epinephrine Injection,66,6600.00,100.00,34.24,5.00
