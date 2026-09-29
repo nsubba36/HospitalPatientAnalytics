@@ -17,3 +17,4 @@ GO
 
 SELECT *
 FROM analytic.vw_ConditionAnalytics;
+
