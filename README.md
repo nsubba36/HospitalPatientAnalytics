@@ -14,7 +14,7 @@ After building the warehouse, I created an analytics schema with SQL views desig
 
 - Python
 - Pandas
-- `mssql-python`
+- mssql-python
 - Jupyter Notebook
 - Microsoft SQL Server
 - T-SQL
